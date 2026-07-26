@@ -1,4 +1,4 @@
-nombre = "editado"
+nombre = "Trinidad"
 apellido = "Leon"
 
 saludo = "hola "+ nombre +" "+apellido+" ¿como estas?"
